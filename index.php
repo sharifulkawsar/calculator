@@ -30,6 +30,7 @@
             <button class="execute" type="submit" name="submit" value="submit">EXECUTE</button>
         </form>
 
+        <!-- end html -->
         <!-- php -->
         <?php 
             if (isset($_POST['submit'])) {
@@ -122,6 +123,7 @@
                 }
             }
          ?>
+         <!-- end php -->
     </div>
 
 </body>
